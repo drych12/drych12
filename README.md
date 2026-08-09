@@ -1,5 +1,4 @@
 ### Hi there, it's Jason Dong
-SUSTech CSE
 <!--
 **drych12/drych12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
